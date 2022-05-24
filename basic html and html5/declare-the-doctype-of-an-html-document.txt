@@ -1,4 +1,0 @@
-<!DOCTYPE html>
-<html>
-  <h1>kimties</h1>
-</html>
